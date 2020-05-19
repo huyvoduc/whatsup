@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+        <plist version="1.0">
+        <dict>
+        	<key>CLIENT_ID</key>
+        	<string>126231330350-surrtaiu4cce5ntte5p756jq7gbovlr8.apps.googleusercontent.com</string>
+        	<key>REVERSED_CLIENT_ID</key>
+        	<string>com.googleusercontent.apps.126231330350-surrtaiu4cce5ntte5p756jq7gbovlr8</string>
+        	<key>API_KEY</key>
+        	<string>AIzaSyC4F8zFtBt7WCMDx1VJ0pneAV6hTL59V2Q</string>
+        	<key>GCM_SENDER_ID</key>
+        	<string>126231330350</string>
+        	<key>PLIST_VERSION</key>
+        	<string>1</string>
+        	<key>BUNDLE_ID</key>
+        	<string>vn.whatsup.app</string>
+        	<key>PROJECT_ID</key>
+        	<string>whatsupbackenddev</string>
+        	<key>STORAGE_BUCKET</key>
+        	<string>whatsupbackenddev.appspot.com</string>
+        	<key>IS_ADS_ENABLED</key>
+        	<false></false>
+        	<key>IS_ANALYTICS_ENABLED</key>
+        	<false></false>
+        	<key>IS_APPINVITE_ENABLED</key>
+        	<true></true>
+        	<key>IS_GCM_ENABLED</key>
+        	<true></true>
+        	<key>IS_SIGNIN_ENABLED</key>
+        	<true></true>
+        	<key>GOOGLE_APP_ID</key>
+        	<string>1:126231330350:ios:ee304ba7a62a500484e9bf</string>
+        	<key>DATABASE_URL</key>
+        	<string>https://whatsupbackenddev.firebaseio.com</string>
+        </dict>
+        </plist>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "126231330350",
+    "firebase_url": "https://whatsupbackenddev.firebaseio.com",
+    "project_id": "whatsupbackenddev",
+    "storage_bucket": "whatsupbackenddev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126231330350:android:5dd27dba640e1b7f84e9bf",
+        "android_client_info": {
+          "package_name": "vn.whatsup.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126231330350-4ug3m3dl92g6l1ug1g7gnh3ju78jt5hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.whatsup.app",
+            "certificate_hash": "672f63314a026afa12efe06438f8f5a5010ce329"
+          }
+        },
+        {
+          "client_id": "126231330350-sgp7ivc683kjm31l56q8trdcbule2hdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1cH3Dg7OBDoFjIC9vf6H2H1ZgoKWRV2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126231330350-sgp7ivc683kjm31l56q8trdcbule2hdu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126231330350-82j9rciupc3foecnbgnuag0s2h34ohq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whatsup.whatsup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
